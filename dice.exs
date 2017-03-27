@@ -101,4 +101,5 @@ defmodule Dice do
       roll_d20(num, acc)
     end
   end
+
 end
